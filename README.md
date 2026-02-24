@@ -1,6 +1,10 @@
 # 2047_beta_1.0 web version
 
+*
+
 My first Ren`Py project web version
+
+*
 
 Чтобы играть, нажмите сюда: [2047_beta_1.0](https://deadhandrh.github.io/2047_beta_1.0_web_version/) (через GitHub).
 
@@ -10,7 +14,11 @@ My first Ren`Py project web version
 
 полная ссылка: https://deadhandrh.gitverse.site/2047_beta_1-0_web_version
 
-*  Описание и ссылки на авторов
+*
+
+*  Описание:
+
+*
 
 Мой первый проект. Предварительное имя "2047".
 
@@ -23,13 +31,21 @@ My first Ren`Py project web version
 Все персонажи вымышлены, все совпадения с реальностью случайны. Ничего не пропагандирую, никого не осуждаю.
 Рекомендую к прохождению лицам старше 18 лет с устойчивой психикой. Остальным не рекомендую.
 
+*
+
 *   Разработка:
+
+*   
 
 Автор сценария - я (DeadHandRH).
 
 Автор скрипта - я (DeadHandRH).
+
+*
        
 *  Изображения:
+
+*  
 
 Изображения сгенерированны мной (DeadHandRH) при помощи моделей генеративного искусственного интеллекта на сайте [Tensor.Art](https://tensor.art/).
 
@@ -44,7 +60,11 @@ My first Ren`Py project web version
 Авторы данных моделей разрешили использование без указания их авторства, а также продажу сгенерированного контента.
 Но в знак благодарности я хочу их указать.
 
+*
+
 *  Музыка:
+
+*  
 
 Автор всех использованных в игре композиций: Kevin MacLeod.
 Сайт автора: [incompetech.com](https://incompetech.com)
@@ -60,10 +80,16 @@ RetroFuture Clean,
 Nile's Blues,
 Local Forecast — Elevator.
 
+*
+
 Лицензия: [Creative Commons: By Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+
+*
 
 *  Звуки:
 
 Произведены и записаны мной (DeadHandRH).
+
+*
 
 Игра сделана с помощью [Ren'Py](https://www.renpy.org/)
